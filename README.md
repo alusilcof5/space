@@ -87,3 +87,10 @@ Este proyecto busca ofrecer una experiencia inmersiva y entretenida utilizando *
 - [https://www.turbosquid.com/es/](https://www.turbosquid.com/es/)
 - [https://sketchfab.com/](https://sketchfab.com/)
 - [https://nasa3d.arc.nasa.gov/](https://nasa3d.arc.nasa.gov/)
+- 
+    Sketchfab
+    Clara.io
+    Archive3D
+    Sketchup’s 3D Warehouse
+    TurboSquid
+
